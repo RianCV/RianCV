@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there! 👋  
 
-<!--
-**RianCV/RianCV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Ryan, a curious mind exploring the intersection of **Python**, **Artificial Intelligence**, and **Web Development**.  
+I believe in **clean code**, **smart solutions**, and **learning by building**.  
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack  
+- **AI & Data Science** → Python, Machine Learning, NLP  
+- **Web Development** → JavaScript, HTML, CSS  
+- **Backend** → Flask, Django  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus  
+- Crafting AI-powered applications  
+- Building scalable web projects  
+- Deep-diving into machine learning  
+
+### ✨ The Philosophy  
+**Simple. Efficient. Impactful.**  
+No unnecessary complexity—just ideas brought to life.  
+
+Let’s connect, build, and innovate. 🚀  
