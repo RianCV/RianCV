@@ -1,20 +1,26 @@
-# Hey there! 👋  
+# Rian Cordoni  
 
-I’m Ryan, a curious mind exploring the intersection of **Python**, **Artificial Intelligence**, and **Web Development**.  
-I believe in **clean code**, **smart solutions**, and **learning by building**.  
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FuOWZobjhib2drNGZlZXVuZnp1dnM2bHU2OXh1bHloZGpqamFyciZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/xUOxfg0ESyhKOv4Vva/giphy.gif" width="200"/>
+</div>  
 
-### 🚀 Tech Stack  
-- **AI & Data Science** → Python, Machine Learning, NLP  
-- **Web Development** → JavaScript, HTML, CSS  
-- **Backend** → Flask, Django  
+I’m **Rian**, and I love building things.  
+The power to **engineer, program, and create** fascinates me—because with it, I can build anything and impact lives.  
 
-### 📌 Current Focus  
-- Crafting AI-powered applications  
-- Building scalable web projects  
-- Deep-diving into machine learning  
+---
 
-### ✨ The Philosophy  
-**Simple. Efficient. Impactful.**  
-No unnecessary complexity—just ideas brought to life.  
+### 🛠 My Background  
+🎓 **Economist** with a degree from **PUCRS**, previously working in **M&A**.  
+📊 Now finishing my second degree in **Data Science & AI**.  
+💻 Experience with **Python** & **Web Development** (**HTML, JavaScript, CSS**).  
 
-Let’s connect, build, and innovate. 🚀  
+---
+
+### 🚀 Current Focus  
+✔️ Expanding my knowledge to build better applications.  
+✔️ Working in an inspiring environment that drives growth.  
+
+---
+
+### 📫 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/riancordoni)  
