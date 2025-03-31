@@ -1,8 +1,6 @@
 # Rian Cordoni  
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FuOWZobjhib2drNGZlZXVuZnp1dnM2bHU2OXh1bHloZGpqamFyciZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/xUOxfg0ESyhKOv4Vva/giphy.gif" width="200"/>
-</div>  
+![Bethesda Thumbs Up GIF](https://github.com/user-attachments/assets/1488d92b-dd53-42a0-985a-1411010e299f)
 
 I’m **Rian**, and I love building things.  
 The power to **engineer, program, and create** fascinates me—because with it, I can build anything and impact lives.  
