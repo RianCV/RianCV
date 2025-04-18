@@ -22,5 +22,8 @@ The power to **engineer, program, and create** fascinates me—because with it, 
 
 ---
 
+### 💡 Hobbies
+🎧 [SoundCloud](https://soundcloud.com/user-183182855)
+
 ### 📫 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/riancordoni)  
